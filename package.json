@@ -1,22 +1,25 @@
 {
-  "name": "csc3916_hw1",
+  "name": "echoapp",
   "version": "1.0.0",
-  "description": "CSC3916 HW1",
+  "description": "Echo App",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --timeout 10000 --exit"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shawnmccarthy/CSC3916_HW01.git"
+    "url": "git+https://github.com/shawnmccarthy/week3.git"
   },
-  "keywords": [
-    "Echo"
-  ],
   "author": "Shawn McCarthy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shawnmccarthy/CSC3916_HW01/issues"
+    "url": "https://github.com/shawnmccarthy/week3/issues"
   },
-  "homepage": "https://github.com/shawnmccarthy/CSC3916_HW01#readme"
+  "homepage": "https://github.com/shawnmccarthy/week3#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "mocha": "^5.2.0",
+    "sinon": "^7.2.2"
+  }
 }
