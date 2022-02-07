@@ -1,3 +1,3 @@
-# week3
+# HW1/Week 3
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1e37a1a45fd828a9cb10)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/b417a568465b6905ee8d?action=collection%2Fimport#?env%5Bhw1echo%5D=W3sia2V5IjoiJGVjaG9fYm9keSIsInZhbHVlIjoiaGVsbG8gd29ybGQiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCIsInNlc3Npb25WYWx1ZSI6ImhlbGxvIHdvcmxkIiwic2Vzc2lvbkluZGV4IjowfSx7ImtleSI6ImVjaG9QaHJhc2UiLCJ2YWx1ZSI6ImhleW8iLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCIsInNlc3Npb25WYWx1ZSI6ImhleW8iLCJzZXNzaW9uSW5kZXgiOjF9LHsia2V5IjoiZWNob19ib2R5IiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiYW55Iiwic2Vzc2lvblZhbHVlIjoidGVzdCBib2R5Iiwic2Vzc2lvbkluZGV4IjoyfV0=)
